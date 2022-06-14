@@ -6,14 +6,14 @@ modules:
   # - MdContent
   - Footer
 banner:
-  heroImage: /logo.png
+  heroImage: /ice.png
   heroImageStyle:
     maxWidth: '200px'
     width: '100%'
     display: block
     margin: '0 auto 2rem'
     borderRadius: '1rem'
-  bgImage: '/bg.svg'
+  bgImage: '/bg.png'
   heroText: Shen
   tagline: 一些东西
 blog:

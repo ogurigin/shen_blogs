@@ -7,7 +7,7 @@ export default defineUserConfig({
   description: '走',
   theme: recoTheme({
     style: '@vuepress-reco/style-default',
-    logo: '/logo.png',
+    logo: '/ice.png',
     author: 'shen',
     docsRepo: '一些记录',
     docsBranch: 'main',
@@ -25,7 +25,7 @@ export default defineUserConfig({
     navbar:
     [
       { text: 'Home', link: '/' },
-      { text: 'vue', link: '/categories/reco/1/' },
+      { text: '导航', link: '/categories/code/1' },
       { text: '关于',
         children: [
           { text: '关于我', link: '/about/me' },
