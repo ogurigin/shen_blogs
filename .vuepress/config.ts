@@ -25,7 +25,7 @@ export default defineUserConfig({
     navbar:
     [
       { text: 'Home', link: '/' },
-      { text: '导航', link: '/categories/code/' },
+      { text: '导航', link: '/categories/code/1' },
       { text: '关于',
         children: [
           { text: '关于我', link: '/about/me' },
